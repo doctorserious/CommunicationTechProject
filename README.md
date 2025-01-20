@@ -5,8 +5,6 @@
 ## Description
 In this project, a system is developed that uses the nRF5340-DK development board, an accelerometer, a Raspberry Pi, a Linux server, and the K-means algorithm. The nRF5340-DK device sends data from its attached accelerometer to the Raspberry Pi via Bluetooth. The Raspberry Pi transfers the received data to a MySQL database located on a Linux server. The data received by the database is stored in a .csv file, which is used to develop a Python application utilizing the K-means algorithm for creating a neural network.
 
-## Project Objective
-
 ## Technologies and Skills Used in the Project
 
 ### Hardware and Platforms
